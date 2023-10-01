@@ -2,7 +2,7 @@
 
 I'm VS, a 21 year old 🚀 trying for full-stack developer 🔨.
 📕 Latest Articles Posts on 
-https://vklsnh.github.io
+https://only-vs.github.io
 
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
