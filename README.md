@@ -1,15 +1,15 @@
 ### Hi there 👋,I am using GitHub.
 
-I'm VS, a 21 year old 🚀 trying for full-stack developer 🔨.
+Hello, This is iampystar, a 21 year old 🚀 trying for full-stack developer 🔨.
 📕 Latest Articles Posts on 
-https://cpdevsqe.github.io
+https://iampystar.github.io
 
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
 
-  ![V's github stats](https://github-readme-stats.vercel.app/api?username=cpdevsqe&count_private=true&show_icons=true&theme=tokyonight)
+  ![V's github stats](https://github-readme-stats.vercel.app/api?username=iampystar&count_private=true&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdevsqe&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/cpdevsqe/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampystar&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/iampystar/github-readme-stats)
 
 
 
