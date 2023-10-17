@@ -1,6 +1,6 @@
 ### Hi there 👋,I am using GitHub.
 
-% cat ~/aboutme
+> cat ~/aboutme
 ------------
 
 Hello, This is iampystar, a 21 year old 🚀 trying for full-stack developer 🔨.
@@ -9,7 +9,7 @@ https://iampystar.github.io
 You'll often catch me casually working on CLI utilities, system automation scripts, or stuff like that.
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
-% echo $STATS
+> echo $STATS
 ----------
   ![V's github stats](https://github-readme-stats.vercel.app/api?username=iampystar&count_private=true&show_icons=true&theme=tokyonight)
  
