@@ -5,15 +5,15 @@
 
 Hello, This is iampystar, a 21 year old 🚀 trying for full-stack developer 🔨.
 📕 Latest Articles Posts on 
-https://iampystar.github.io
+https://ow1c.github.io
 You'll often catch me casually working on CLI utilities, system automation scripts, or stuff like that.
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
 ~ echo $STATS
 ----------
-  ![V's github stats](https://github-readme-stats.vercel.app/api?username=iampystar&count_private=true&show_icons=true&theme=tokyonight)
+  ![V's github stats](https://github-readme-stats.vercel.app/api?username=ow1c&count_private=true&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampystar&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/iampystar/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ow1c&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/ow1c/github-readme-stats)
 
 
 
