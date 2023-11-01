@@ -5,15 +5,15 @@
 
 Hello, This is VS, a 22 year old 🚀 trying for full-stack developer 🔨.
 📕 Latest Articles Posts on 
-https://vklss.github.io
+https://mrvks.github.io
 You'll often catch me casually working on CLI utilities, system automation scripts, or stuff like that.
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
 ~ echo $STATS
 ----------
-  ![V's github stats](https://github-readme-stats.vercel.app/api?username=vklss&count_private=true&show_icons=true&theme=tokyonight)
+  ![V's github stats](https://github-readme-stats.vercel.app/api?username=mrvks&count_private=true&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vklss&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/vks6/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkvks&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/mrvks/github-readme-stats)
 
 
 
