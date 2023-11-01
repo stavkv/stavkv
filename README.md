@@ -3,9 +3,9 @@
 ~ cat ~/aboutme
 ------------
 
-Hello, This is theevilguy / VS, a 22 year old 🚀 trying for full-stack developer 🔨.
+Hello, This is VS, a 22 year old 🚀 trying for full-stack developer 🔨.
 📕 Latest Articles Posts on 
-https://vks6.github.io
+https://vklss.github.io
 You'll often catch me casually working on CLI utilities, system automation scripts, or stuff like that.
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
