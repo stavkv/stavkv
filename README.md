@@ -13,7 +13,7 @@ I frequently contribute to Open Source 🌿, and everything I build for myself i
 ----------
   ![V's github stats](https://github-readme-stats.vercel.app/api?username=mrvks&count_private=true&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkvks&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/mrvks/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvks&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/mrvks/github-readme-stats)
 
 
 
