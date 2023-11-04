@@ -1,7 +1,7 @@
-### Hi there 👋,I am using GitHub.
+
 
 <div align="right">
-  <a href="https://twitter.com/everything_ded" target="blank">
+  <a href="https://twitter.com/vikal_here" target="blank">
     <img src="https://img.shields.io/twitter/follow/vikal_here?logo=twitter&style=flat-square" alt="VS" />
   </a>
 </div>
@@ -10,8 +10,6 @@
 ------------
 
 Hello, This is VS, a 22 year old 🚀 trying for full-stack developer 🔨.
-📕 Latest Articles Posts on 
-https://heyvikki.github.io
 You'll often catch me casually working on CLI utilities, system automation scripts, or stuff like that.
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
