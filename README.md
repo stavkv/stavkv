@@ -18,7 +18,7 @@ I frequently contribute to Open Source 🌿, and everything I build for myself i
 ~  echo $TOOLS
 --------------
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=Main (Yes I love gaming)&message=Windows%2011&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Secondary (Yes I like Arch BTW)&message=Arch%20Linux&color=blue&style=flat-square"/> 
+  <img src="https://img.shields.io/static/v1?label=Main (Yes I love gaming)&message=Windows%2011&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Secondary &message=Debian%20Linux&color=blue&style=flat-square"/> 
   
   <img src="https://img.shields.io/static/v1?label=WM&message=BSPWM&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Brave&color=orange&style=flat-square"/> 
 </div>
