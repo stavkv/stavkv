@@ -36,9 +36,9 @@ I frequently contribute to Open Source 🌿, and everything I build for myself i
 
 ~ echo $STATS
 ----------
-  ![V's github stats](https://github-readme-stats.vercel.app/api?username=heyvikki&count_private=true&show_icons=true&theme=tokyonight)
+  ![V's github stats](https://github-readme-stats.vercel.app/api?username=chadrat&count_private=true&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyvikki&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/heyvikki/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadrat&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/chadrat/github-readme-stats)
 
 
 
