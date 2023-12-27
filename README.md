@@ -1,15 +1,9 @@
 
 
-<div align="right">
-  <a href="https://twitter.com/vikal_here" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vikal_here?logo=twitter&style=flat-square" alt="VS" />
-  </a>
-</div>
-
 ~ cat ~/aboutme
 ------------
 
-Hello, This is Vik, a 22 year old 🚀 trying for full-stack developer 🔨.
+Hello, This is Vikki, a 22 year old 🚀 trying for full-stack developer 🔨.
 You'll often catch me casually working on CLI utilities, system automation scripts, or stuff like that.
 I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
@@ -36,15 +30,15 @@ I frequently contribute to Open Source 🌿, and everything I build for myself i
 
 ~ echo $STATS
 ----------
-  ![V's github stats](https://github-readme-stats.vercel.app/api?username=vikfp&count_private=true&show_icons=true&theme=tokyonight)
+  ![V's github stats](https://github-readme-stats.vercel.app/api?username=dtavkv&count_private=true&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikfp&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/vi4al/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavkv&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/stavkv/github-readme-stats)
 
 
 
 
 <!--
-**vklsnh/vklsnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
