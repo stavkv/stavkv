@@ -30,7 +30,7 @@ I frequently contribute to Open Source 🌿, and everything I build for myself i
 
 ~ echo $STATS
 ----------
-  ![V's github stats](https://github-readme-stats.vercel.app/api?username=dtavkv&count_private=true&show_icons=true&theme=tokyonight)
+  ![V's github stats](https://github-readme-stats.vercel.app/api?username=stavkv&count_private=true&show_icons=true&theme=tokyonight)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavkv&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/stavkv/github-readme-stats)
 
