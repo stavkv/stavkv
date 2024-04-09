@@ -1,11 +1,5 @@
 
 
-~ cat ~/aboutme
-------------
-
-Hello, This is Vikki, a 22 year old 🚀 trying for full-stack developer 🔨.
-You'll often catch me casually working on CLI utilities, system automation scripts, or stuff like that.
-I frequently contribute to Open Source 🌿, and everything I build for myself is available out in the open. I'm a massive Linux and Python enthusiast, so you might find me making a lot of projects with them involved.
 
 ~  echo $TOOLS
 --------------
@@ -26,28 +20,3 @@ I frequently contribute to Open Source 🌿, and everything I build for myself i
 ![PowerShell](https://img.shields.io/badge/Powershell-5d2d91?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
 
-</div>
-
-~ echo $STATS
-----------
-  ![V's github stats](https://github-readme-stats.vercel.app/api?username=stavkv&count_private=true&show_icons=true&theme=tokyonight)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavkv&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/stavkv/github-readme-stats)
-
-
-
-
-<!--
-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
